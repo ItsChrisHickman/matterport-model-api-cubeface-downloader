@@ -1,4 +1,4 @@
-# Matterport Model API - Batch Cubeface Downloader
+# Matterport Model API - Batch Cube face Downloader
 
 Forked by Chris Hickman
 
@@ -70,3 +70,7 @@ Enterprise Account and purchase the Advanced Imagery Pack using a mutation
 ## More Info
 
 https://matterport.github.io/showcase-sdk/modelapi_ordering_addons.html#accessing-the-advanced-imagery-pack
+
+## Convert Cube Faces -> Equirectangular:
+
+https://github.com/disseminate/cube2equi
